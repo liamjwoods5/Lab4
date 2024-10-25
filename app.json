@@ -2,6 +2,11 @@
   "expo": {
     "name": "Lab4",
     "slug": "Lab4",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "64a9a70f-8c97-4d73-8cfa-b80de12964ab"
+      }
+    }
   }
 }
